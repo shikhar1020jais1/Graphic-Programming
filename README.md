@@ -1,4 +1,4 @@
-# Graphic-Programming-
+# Graphic-Programming- by Shikhar Jaiswal
 using C/C++ 
 
 
